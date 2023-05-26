@@ -13,7 +13,6 @@ def get_random_string(length):
     return result_str + '.exe'
 
 
-print(KEY)
 if len(sys.argv) != 3:
     print("Usage: python [exe_path] [stub_name]")
 try:
