@@ -14,4 +14,5 @@ exe_path = the .exe you want to encrypt (known as malware :))<br />
 stub_name = the file that the victim will receive (dont forget, the stub will drop a random 8 char .exe filename)
 
 # Important
+Dont forget to change the KEY variable. <br />
 This tool is for educational purpose only. Dont use it to hurt other peoples. Be kind.
