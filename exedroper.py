@@ -4,7 +4,7 @@ import os
 import random
 import string
 
-KEY = b"WVdIs4ivPZBcqKj4" #Change This to a random 16 char string
+KEY = b" " #Change This to a random 16 char string
 
 
 def get_random_string(length):
