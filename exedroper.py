@@ -15,7 +15,7 @@ def get_random_string(length):
 
 print(KEY)
 if len(sys.argv) != 3:
-    print("Usage: python [exe_path] [drop_name]")
+    print("Usage: python [exe_path] [stub_name]")
 try:
     exe_path = sys.argv[1]
     stub_name = sys.argv[2]
