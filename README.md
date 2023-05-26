@@ -6,7 +6,7 @@ The stub will decrypt the  random-8-char-filename .exe in runtime then execute i
 git clone https://github.com/estr3llas/exedroper<br />
 cd exedroper<br />
 pip install -r requirements.txt<br />
-python droper.py<br />
+python exedroper.py<br />
 
 # Usage
 python [exe_path] [stub_name]<br />
