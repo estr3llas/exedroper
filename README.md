@@ -8,10 +8,10 @@ cd exedroper < /br>
 pip install -r requirements.txt < /br>
 python droper.py < /br>
 
-#Usage
+# Usage
 Usage: python [exe_path] [stub_name] < /br>
 exe_path = the .exe you want to encrypt (known as malware :)) < /br>
 stub_name = the file that the victim will receive (dont forget, the stub will drop a random 8 char .exe filename)
 
-#Important
+# Important
 This tool is for educational purpose only. Dont use it to hurt other peoples. Be kind.
