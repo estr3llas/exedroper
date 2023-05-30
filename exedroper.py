@@ -44,4 +44,4 @@ proc = subprocess.Popen(dropfile)
 
     os.system("pyinstaller -F -w --clean {}".format(stub_name))
 except:
-       print("Unexpected error. Try reloading the program")
+       print("Unexpected error. Try reloading the program.")
